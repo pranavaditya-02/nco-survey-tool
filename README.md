@@ -16,24 +16,19 @@ A comprehensive, secure, and accessible platform for conducting large-scale gove
 - [Technology Stack](#-technology-stack)
 - [Quick Start](#-quick-start)
 - [Usage](#-usage)
-- [Security & Compliance](#-security--compliance)
-- [Accessibility](#-accessibility)
-- [Analytics & Reporting](#-analytics--reporting)
-- [Contributing](#-contributing)
 - [Meet the Team](#-meet-the-team)
-- [Acknowledgments](#-acknowledgments)
 
 ## 🇮🇳 About
 
 The NCO Smart Survey Tool is designed to empower modern governance through intelligent data collection. Built specifically for Indian government agencies, this platform ensures transparency, accessibility, and efficiency in conducting nationwide surveys.
 
-This project was developed for a state government event showcasing innovative digital solutions for public administration.
+This project was developed as an academic initiative to demonstrate modern web development skills and digital governance solutions.
 
-### Key Statistics
-- **10M+** Survey Responses Collected
+### Key Features
 - **22** Languages Supported
-- **500+** Government Agencies Using Platform
-- **99.9%** Uptime Guarantee
+- **AI-Powered** Analytics and Insights
+- **Voice Input** Accessibility Support
+- **Real-time** Dashboard and Reporting
 
 ## ✨ Features
 
@@ -160,48 +155,16 @@ This project was developed for a state government event showcasing innovative di
 3. Monitor platform performance
 4. Ensure data security compliance
 
-## 🔐 Security & Compliance
-
-- **Data Encryption**: All data encrypted in transit and at rest
-- **Authentication**: Multi-factor authentication for admin users
-- **Audit Logging**: Comprehensive activity tracking
-- **Privacy Controls**: Granular data access permissions
-- **Compliance**: Adheres to Indian government data protection standards
-
-## 🌍 Accessibility
-
-- **WCAG 2.1 AA** compliant design
-- **Screen reader** compatible
-- **Keyboard navigation** support
-- **High contrast** mode available
-- **Voice input** for users with disabilities
-- **Multiple language** support for inclusivity
-
-## 📊 Analytics & Reporting
-
-- Real-time response tracking
-- Demographic analysis and insights
-- Geographic distribution mapping
-- Response quality scoring
-- Custom report generation
-- Data export in CSV, Excel, and PDF formats
-
 ## 🤝 Contributing
 
-We welcome contributions to improve this platform! Here's how you can help:
+We welcome contributions to improve this platform:
 
-1. **Fork the repository**
-2. **Create a feature branch** from `main`
-3. **Implement changes** with proper testing
-4. **Submit pull request** with detailed description
-5. **Code review** and testing process
-6. **Merge after approval**
+1. Fork the repository
+2. Create a feature branch from `main`
+3. Implement changes with proper testing
+4. Submit pull request with detailed description
 
-### Development Guidelines
-- Write clean, documented code
-- Follow TypeScript best practices
-- Include tests for new features
-- Maintain consistent code style
+---
 
 ## 👥 Meet the Team
 
@@ -209,25 +172,14 @@ We welcome contributions to improve this platform! Here's how you can help:
 
 | **Name** | **Email** | **LinkedIn** |
 |----------|-----------|--------------|
-| [Hemasri M] | [hemaleena1102@gmail.com] | [https://www.linkedin.com/in/hemasri-m/] |
-| [Pranav Aditya P S] | [pspranavadityacvm@gmail.com] | [https://www.linkedin.com/in/pranav-aditya-ps/] |
-
+| Hemasri M | hemaleena1102@gmail.com | https://www.linkedin.com/in/hemasri-m/ |
+| Pranav Aditya P S | pspranavadityacvm@gmail.com | https://www.linkedin.com/in/pranav-aditya-ps/ |
 
 ### 🤝 Get In Touch
-For questions, suggestions, or collaboration opportunities, feel free to reach out to any team member above.
-
-## 🏛 Government Compliance
-
-- **RTI Act 2005** compliant
-- **IT Act 2000** adherent
-- **Digital India** initiative aligned
-- **Accessibility Standards** GIGW compliant
-- **Data Localization** requirements met
+For questions or collaboration opportunities, feel free to reach out to any team member above.
 
 ---
 
 **Built with ❤️ for Digital India Initiative**
 
 *Empowering governance through technology*
-
-**Academic Project** | [Your College Name] | 2024

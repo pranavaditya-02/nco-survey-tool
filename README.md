@@ -124,25 +124,7 @@ The NCO Smart Survey Tool is designed to empower modern governance through intel
 6. **Open your browser**
    Navigate to `http://localhost:3000`
 
-## 📁 Project Structure
 
-\`\`\`
-nco-survey-tool/
-├── app/                          # Next.js App Router
-│   ├── admin/                    # Admin dashboard pages
-│   ├── auth/                     # Authentication pages
-│   ├── citizen/                  # Citizen survey pages
-│   ├── api/                      # API routes
-│   └── globals.css               # Global styles
-├── components/                   # Reusable components
-│   ├── auth/                     # Authentication components
-│   ├── survey/                   # Survey-related components
-│   └── ui/                       # shadcn/ui components
-├── lib/                          # Utility functions
-├── hooks/                        # Custom React hooks
-├── scripts/                      # Database setup scripts
-└── public/                       # Static assets
-\`\`\`
 
 ## 🎯 Usage
 
@@ -208,12 +190,6 @@ This is a government project with specific contribution guidelines:
 5. Deploy to staging for validation
 6. Merge to production after approval
 
-## 📞 Support
-
-- **Technical Support**: [support@nco-survey.gov.in](mailto:support@nco-survey.gov.in)
-- **Documentation**: [docs.nco-survey.gov.in](https://docs.nco-survey.gov.in)
-- **Emergency Contact**: +91-11-XXXX-XXXX
-- **Office Hours**: Monday-Friday, 9:00 AM - 6:00 PM IST
 
 ## 📄 License
 

@@ -16,7 +16,7 @@ A comprehensive, secure, and accessible platform for conducting large-scale gove
 - [Technology Stack](#-technology-stack)
 - [Quick Start](#-quick-start)
 - [Usage](#-usage)
-- [Meet the Team](#-meet-the-team)
+- [Contributors](#-meet-the-team)
 
 ## 🇮🇳 About
 

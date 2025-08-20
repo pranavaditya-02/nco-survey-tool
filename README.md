@@ -16,7 +16,7 @@ A comprehensive, secure, and accessible platform for conducting large-scale gove
 - [Technology Stack](#-technology-stack)
 - [Quick Start](#-quick-start)
 - [Usage](#-usage)
-- [Contributors](#-meet-the-team)
+- [Contributors](#Built-with-dedication-by)
 
 ## 🇮🇳 About
 
@@ -168,7 +168,7 @@ We welcome contributions to improve this platform:
 
 ## 👥 Contributors
 
-### Built with dedication by:
+### Built with dedication by
 
 | **Name** | **Email** | **LinkedIn** |
 |----------|-----------|--------------|

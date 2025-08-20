@@ -166,9 +166,9 @@ We welcome contributions to improve this platform:
 
 ---
 
-## 👥 Meet the Team
+## 👥 Contributors
 
-### Student Development Team
+### Built with dedication by:
 
 | **Name** | **Email** | **LinkedIn** |
 |----------|-----------|--------------|

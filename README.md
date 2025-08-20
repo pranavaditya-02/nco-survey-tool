@@ -1,6 +1,6 @@
 # NCO Smart Survey Tool
 
-**Official Government of India Survey Platform**
+**Government of India Survey Platform**
 
 A comprehensive, secure, and accessible platform for conducting large-scale government surveys with AI-powered insights and multilingual support.
 
@@ -9,9 +9,25 @@ A comprehensive, secure, and accessible platform for conducting large-scale gove
 ![TypeScript](https://img.shields.io/badge/TypeScript-5-blue?style=for-the-badge&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-4-38B2AC?style=for-the-badge&logo=tailwind-css)
 
+## 📋 Table of Contents
+
+- [About](#-about)
+- [Features](#-features)
+- [Technology Stack](#-technology-stack)
+- [Quick Start](#-quick-start)
+- [Usage](#-usage)
+- [Security & Compliance](#-security--compliance)
+- [Accessibility](#-accessibility)
+- [Analytics & Reporting](#-analytics--reporting)
+- [Contributing](#-contributing)
+- [Meet the Team](#-meet-the-team)
+- [Acknowledgments](#-acknowledgments)
+
 ## 🇮🇳 About
 
 The NCO Smart Survey Tool is designed to empower modern governance through intelligent data collection. Built specifically for Indian government agencies, this platform ensures transparency, accessibility, and efficiency in conducting nationwide surveys.
+
+This project was developed for a state government event showcasing innovative digital solutions for public administration.
 
 ### Key Statistics
 - **10M+** Survey Responses Collected
@@ -76,33 +92,33 @@ The NCO Smart Survey Tool is designed to empower modern governance through intel
 ### Installation
 
 1. **Clone the repository**
-   \`\`\`bash
+   ```bash
    git clone <repository-url>
    cd nco-survey-tool
-   \`\`\`
+   ```
 
 2. **Install dependencies**
-   \`\`\`bash
+   ```bash
    npm install
-   \`\`\`
+   ```
 
 3. **Set up environment variables**
-   \`\`\`bash
+   ```bash
    cp .env.example .env.local
-   \`\`\`
+   ```
    
    Configure the following variables:
-   \`\`\`env
+   ```env
    NEXT_PUBLIC_SUPABASE_URL=your_supabase_url
    NEXT_PUBLIC_SUPABASE_ANON_KEY=your_supabase_anon_key
    SUPABASE_SERVICE_ROLE_KEY=your_service_role_key
    NEXT_PUBLIC_DEV_SUPABASE_REDIRECT_URL=http://localhost:3000
-   \`\`\`
+   ```
 
 4. **Set up the database**
    
    Run the SQL scripts in order to set up your database schema:
-   \`\`\`bash
+   ```bash
    # Execute these scripts in your Supabase SQL editor or via the platform
    scripts/01_create_database_schema.sql
    scripts/02_seed_departments.sql
@@ -114,17 +130,15 @@ The NCO Smart Survey Tool is designed to empower modern governance through intel
    scripts/08_create_functions.sql
    scripts/09_create_triggers.sql
    scripts/10_grant_permissions.sql
-   \`\`\`
+   ```
 
 5. **Start the development server**
-   \`\`\`bash
+   ```bash
    npm run dev
-   \`\`\`
+   ```
 
 6. **Open your browser**
    Navigate to `http://localhost:3000`
-
-
 
 ## 🎯 Usage
 
@@ -174,26 +188,33 @@ The NCO Smart Survey Tool is designed to empower modern governance through intel
 
 ## 🤝 Contributing
 
-This is a government project with specific contribution guidelines:
+We welcome contributions to improve this platform! Here's how you can help:
 
-1. **Security Clearance**: Contributors must have appropriate clearance
-2. **Code Review**: All changes require security team approval
-3. **Testing**: Comprehensive testing required for all features
-4. **Documentation**: All code must be thoroughly documented
+1. **Fork the repository**
+2. **Create a feature branch** from `main`
+3. **Implement changes** with proper testing
+4. **Submit pull request** with detailed description
+5. **Code review** and testing process
+6. **Merge after approval**
 
-### Development Workflow
+### Development Guidelines
+- Write clean, documented code
+- Follow TypeScript best practices
+- Include tests for new features
+- Maintain consistent code style
 
-1. Create feature branch from `main`
-2. Implement changes with tests
-3. Submit pull request with detailed description
-4. Pass security review and testing
-5. Deploy to staging for validation
-6. Merge to production after approval
+## 👥 Meet the Team
+
+### Student Development Team
+
+| **Name** | **Email** | **LinkedIn** |
+|----------|-----------|--------------|
+| [Hemasri M] | [hemaleena1102@gmail.com] | [https://www.linkedin.com/in/hemasri-m/] |
+| [Pranav Aditya P S] | [pspranavadityacvm@gmail.com] | [https://www.linkedin.com/in/pranav-aditya-ps/] |
 
 
-## 📄 License
-
-This project is proprietary software owned by the Government of India. Unauthorized use, distribution, or modification is strictly prohibited.
+### 🤝 Get In Touch
+For questions, suggestions, or collaboration opportunities, feel free to reach out to any team member above.
 
 ## 🏛 Government Compliance
 
@@ -208,3 +229,5 @@ This project is proprietary software owned by the Government of India. Unauthori
 **Built with ❤️ for Digital India Initiative**
 
 *Empowering governance through technology*
+
+**Academic Project** | [Your College Name] | 2024
